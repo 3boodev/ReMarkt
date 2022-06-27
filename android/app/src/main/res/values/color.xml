@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_facebook_button_background_color_focused_disabled">@color/blue_5</color>
+    <color name="com_facebook_button_background_color_disabled">@color/blue_5</color>
+    <color name="com_facebook_button_background_color_focused">@color/blue_5</color>
+    <color name="com_facebook_button_border_color_focused">@color/blue_5</color>
+    <color name="com_facebook_button_send_background_color_pressed">@color/blue_5</color>
+    <color name="com_facebook_button_send_background_color">@color/blue_5</color>
+
+    <color name="blue_1">#00101f</color>
+    <color name="blue_5">#0078ff</color>
+</resources>

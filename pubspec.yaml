@@ -1,0 +1,45 @@
+name: drixion
+description: Modern Car Market in Egypt
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_sign_in: ^5.1.0
+  firebase_auth: ^3.3.0
+  firebase_core: ^1.10.2
+  get: ^4.6.1
+  get_storage: ^2.0.3
+  google_fonts: ^2.1.0
+  http: ^0.13.2
+  flutter_facebook_auth: ^3.5.0
+  badges: ^2.0.2
+  smooth_page_indicator: ^1.0.0+2
+  carousel_slider: ^4.0.0
+  flutter_rating_bar: ^4.0.0
+  readmore: ^2.1.0
+  cupertino_icons: ^1.0.2
+  geolocator: ^8.0.1
+  geocoding: ^2.0.1
+  pay: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/
+
+  fonts:
+    - family: mobily
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
